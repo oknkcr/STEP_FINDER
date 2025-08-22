@@ -123,9 +123,8 @@ This project is licensed under the **MIT** License. See the `LICENSE` file for d
 
 ## 📸 Screenshots
 
-![Interface](assets/SS1.png)  
-![Search Results](https://screenshots/search-results.png)  
-![3D Viewer](https://screenshots/3d-viewer.png)  
+![Interface](assets/SS1.PNG)   
+![3D Viewer](assets/SS2.PNG)  
 
 ---
 
